@@ -7,10 +7,8 @@ __아무것도 모르는 컴공생 3학년들이 시작하는 창업 동아리 �
 > 맡은역할 : 프론트엔드(Flutter)
 * 20205206 운석현(팀원)
 > https://github.com/seokhyeon0916</br>
-> 맡은 역할 : 백엔드(Node.js), 데이터베이스(MySQL)
-* 20205226 이시현(팀원)
-> https://github.com/SEEHYUNLEE</br>
-> 맡은역할 : 프론트엔드(Flutter)
+> 맡은 역할 : 백엔드(Node.js, express), 데이터베이스(MongoDB)
+
 
 #### 📓사업구성📓
 * To do mate와 같은 달력 구현, 날마다의 운동 기록과 식단 사진 저장 기능 구현</br>
